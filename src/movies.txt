@@ -1,0 +1,5 @@
+12 Angry Men,Drama,1957-04-10,850
+The Goodthe Bad and the Ugly,Western,1966-12-23,85
+Fight Club,Drama,1999-10-15,90
+Star Wars: Episode V - The Empire Strikes Back,Sci-Fi,1980-05-17,9
+The Incredibles,Animation,2004,40
